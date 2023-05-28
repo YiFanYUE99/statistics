@@ -1,0 +1,2 @@
+pairs	Df	SumsOfSqs	F.Model	R2	p.value	p.adjusted	sig
+1	C vs P	1	0.231221950686831	30.8515667741864	0.207263970697665	0.001	0.001	**
